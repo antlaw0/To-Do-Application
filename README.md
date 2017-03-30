@@ -1,2 +1,1 @@
-# To-Do-Application
-For web programming class
+Basic to do task list application, using MongoDB.
